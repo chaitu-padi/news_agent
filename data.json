@@ -1,0 +1,67 @@
+[
+  {
+    "article_id": "SYN-BOFA-001",
+    "timestamp": "2026-02-21T09:15:00Z",
+    "source": "Reuters Financial",
+    "headline": "GlobalTech CEO steps down amid undisclosed SEC accounting probe",
+    "body": "GlobalTech Industries announced early Tuesday that CEO Jonathan Weaver has resigned effective immediately. Sources familiar with the matter indicate the sudden departure is tied to an ongoing, unannounced SEC investigation into the company's Q3 revenue recognition practices. Trading of GlobalTech has been halted pre-market.",
+    "ground_truth": {
+      "is_material": true,
+      "polarity": "Negative",
+      "severity_or_immediacy": "High",
+      "expected_impact": "High risk of stock plummet upon trading resumption. GCIB must immediately review our underwriting exposure and corporate credit facilities extended to GlobalTech. Global Markets trading desks must adjust risk parameters. Alert GCIB Technology, Media, and Telecom (TMT) team."
+    }
+  },
+  {
+    "article_id": "SYN-BOFA-002",
+    "timestamp": "2026-02-21T10:05:00Z",
+    "source": "Bloomberg Terminal",
+    "headline": "Apex Pharma secures exclusive patent rights for breakthrough ALZ-400 compound",
+    "body": "Apex Pharmaceuticals has won a pivotal court ruling securing exclusive 15-year patent rights for ALZ-400, a highly anticipated Alzheimer's treatment. The ruling blocks three generic competitors from entering the market until 2041. Analysts expect Apex to revise their FY26 revenue guidance upwards by at least 35%.",
+    "ground_truth": {
+      "is_material": true,
+      "polarity": "Positive",
+      "severity_or_immediacy": "High",
+      "expected_impact": "Immediate upside opportunity. Merrill Wealth Management and BofA Private Bank advisors should be alerted to notify clients holding Apex. GCIB Healthcare coverage team should immediately prepare a pitch for capital raising to help Apex scale ALZ-400 production."
+    }
+  },
+  {
+    "article_id": "SYN-BOFA-003",
+    "timestamp": "2026-02-21T11:30:00Z",
+    "source": "PR Newswire",
+    "headline": "Vertex Manufacturing to open new distribution center in Ohio",
+    "body": "Vertex Manufacturing announced plans today to open a 50,000 square foot distribution center in Columbus, Ohio. The facility is expected to create 150 local jobs over the next two years and will streamline shipping logistics for the Midwest region.",
+    "ground_truth": {
+      "is_material": false,
+      "polarity": "Positive",
+      "severity_or_immediacy": "None",
+      "expected_impact": "Routine operational expansion. While Global Commercial Banking relationship managers may note this for future CashPro or Treasury solutions, there is no immediate financial impact requiring a real-time urgent alert."
+    }
+  },
+  {
+    "article_id": "SYN-BOFA-004",
+    "timestamp": "2026-02-21T13:45:00Z",
+    "source": "Wall Street Journal",
+    "headline": "European Union drafts new emissions tariffs impacting imported steel",
+    "body": "The European Commission has circulated a draft proposal that would impose a 12% tariff on steel imported from non-EU nations lacking strict carbon pricing frameworks. If passed next month, the tariff would compress margins for major US and Asian steel exporters heavily reliant on European buyers.",
+    "ground_truth": {
+      "is_material": true,
+      "polarity": "Negative",
+      "severity_or_immediacy": "Medium",
+      "expected_impact": "Medium-term margin compression for steel exporters in our commercial portfolio. Global Markets commodities desk needs to adjust pricing models. GCIB Industrials team should initiate proactive hedging and liquidity discussions with affected corporate clients before the vote."
+    }
+  },
+  {
+    "article_id": "SYN-BOFA-005",
+    "timestamp": "2026-02-21T14:20:00Z",
+    "source": "Financial Times",
+    "headline": "Mid-tier lender Horizon Bank exploring strategic alternatives, including sale",
+    "body": "Horizon Bank has hired advisors to explore strategic alternatives, including a potential sale of the company. The regional lender has struggled with commercial real estate loan defaults over the past three quarters, leading to mounting pressure from activist investors to find a larger buyer.",
+    "ground_truth": {
+      "is_material": true,
+      "polarity": "Positive",
+      "severity_or_immediacy": "High",
+      "expected_impact": "Prime M&A advisory opportunity. The GCIB Financial Institutions Group (FIG) should immediately mobilize a pitch team to represent either Horizon Bank or potential acquirers. Global Markets must monitor regional bank volatility."
+    }
+  }
+]
