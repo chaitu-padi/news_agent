@@ -38,8 +38,8 @@ The codebase is highly decoupled to mimic a robust streaming pipeline, allowing 
 ### Step 1: Environment Preparation
 Extract the project and set up your virtual environment.
 ```bash
-unzip streaming_news_agent.zip
-cd streaming_news_agent
+
+cd news_agent
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
